@@ -1,0 +1,8 @@
+wavio
+speech_recognition
+sounddevice
+scipy.io.wavfile
+pynput
+hugchat
+playsound
+gTTS
